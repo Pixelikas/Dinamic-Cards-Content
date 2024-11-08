@@ -1,0 +1,74 @@
+html{
+
+    height: 100%;
+
+}
+
+body{
+
+    height: 100%;
+    margin: 0;
+
+}
+
+#container{
+
+    height: fit-content;
+    background-color: gray;
+
+}
+
+.cards-resenhas{
+
+    height: 90%;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#card-one{
+
+    height: fit-content;
+    width: fit-content;
+    block-size: fit-content;
+    margin: 5% 5% 5% 5%;
+
+}
+
+#card-two{
+
+    height: fit-content;
+    width: fit-content;
+    block-size: fit-content;
+    margin: 5% 5% 5% 5%;
+
+}
+
+
+    .card-header{
+
+        height: 30px;
+        width: 100%;
+        background-color: chocolate;
+
+    }
+
+    .card-content{
+
+        height: fit-content;
+        width: fit-content;
+        block-size: fit-content;
+        background-color: brown;
+        
+
+    }
+
+    .card-footer{
+
+        height: 30px;
+        width: 100%;
+        background-color: crimson;
+
+    }
